@@ -1,0 +1,10 @@
+
+[2025-07-17T05:58:11.329Z] GET / Body: {"email":"rakeshthangaraj89@gmail.com","name":"Rakesh T","mobileNo":"7358021304","githubUsername":"Rakesh3697","rollNo":"312822243031","accessCode":"vAHzKn","clientID":"9d6d48ff-fe81-4b3e-8780-8cb067bd502e","clientSecret":"BbVrjXmeTgPTfgWx"}
+[2025-07-17T05:58:28.556Z] GET /some-endpoint Body: {"email":"rakeshthangaraj89@gmail.com","name":"Rakesh T","mobileNo":"7358021304","githubUsername":"Rakesh3697","rollNo":"312822243031","accessCode":"vAHzKn","clientID":"9d6d48ff-fe81-4b3e-8780-8cb067bd502e","clientSecret":"BbVrjXmeTgPTfgWx"}
+[2025-07-17T06:00:21.175Z] GET /shorten Body: {"email":"rakeshthangaraj89@gmail.com","name":"Rakesh T","mobileNo":"7358021304","githubUsername":"Rakesh3697","rollNo":"312822243031","accessCode":"vAHzKn","clientID":"9d6d48ff-fe81-4b3e-8780-8cb067bd502e","clientSecret":"BbVrjXmeTgPTfgWx"}
+[2025-07-17T06:00:27.492Z] GET /shorten Body: {"originalUrl":"https://www.google.com","shortcode":"ABC123","validity":1}
+[2025-07-17T06:00:28.853Z] GET /shorten Body: {"originalUrl":"https://www.google.com","shortcode":"ABC123","validity":1}
+[2025-07-17T06:01:06.833Z] GET /shorten Body: {"originalUrl":"https://www.google.com","shortcode":"ABC123","validity":1}
+[2025-07-17T06:01:21.864Z] POST /shorten Body: {"originalUrl":"https://www.google.com","shortcode":"ABC123","validity":1}
+[2025-07-17T06:01:26.878Z] POST /shorten Body: {"originalUrl":"https://www.google.com"}
+[2025-07-17T06:01:28.376Z] POST /shorten Body: {"originalUrl":"https://www.google.com"}
